@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Alexey</h1>
 <h3 align="center">Java Software Engineer at SberBank</h3>
 
-👀 I’m interested in Java and JVM language
+👀 I’m interested in Java and JVM languages
 
 🌱 I’m currently learning Groovy and Kotlin
 
