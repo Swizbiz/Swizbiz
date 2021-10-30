@@ -9,10 +9,10 @@
 #### Connect with me:
 
 [<img align="left" alt="swizbiz | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="swizbiz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/maildotru.svg" />][Email]
+[<img align="left" alt="swizbiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][LinkedIn]
 
 [Telegram]: https://t.me/Swizbiz
-[Email]: https://www.instagram.com/shardin.name/
+[LinkedIn]: https://www.linkedin.com/in/aleksei-borodin
 
 <!---
 Swizbiz/Swizbiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
