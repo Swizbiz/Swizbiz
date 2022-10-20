@@ -4,7 +4,7 @@ __Java Software Engineer at__ ![Huawei](https://img.shields.io/badge/Huawei-%23F
 
 👀 I’m interested in ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) and JVM languages
 
-🌱 I’m currently learning ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+🌱 I’m currently learning ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br/>
 
@@ -15,3 +15,7 @@ __Java Software Engineer at__ ![Huawei](https://img.shields.io/badge/Huawei-%23F
 
 [Telegram]: https://t.me/Swizbiz
 [LinkedIn]: https://www.linkedin.com/in/aleksei-borodin
+
+<!---
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
