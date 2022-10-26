@@ -6,7 +6,7 @@ __Java Software Engineer at__ ![Huawei](https://img.shields.io/badge/Huawei-%23F
 
 🌱 I’m currently learning ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) and ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br/>
+<a href="https://swizbiz.github.io/cv/"><img src="qr-code black.png" alt="Qr code" width="200" height="200"></a>
 
 #### Connect with me:
 
