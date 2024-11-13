@@ -24,6 +24,8 @@ and ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-b
 
 [<img align="left" alt="swizbiz | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="swizbiz | Telegram messenger" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="swizbiz | WhatsApp messenger" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg" />][WhatsApp]
 
 [LinkedIn]: https://www.linkedin.com/in/aleksei-borodin
 [Telegram]: https://t.me/Swizbiz
+[WhatsApp]: https://wa.me/351932567772
