@@ -22,9 +22,10 @@ and ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-b
 
 #### Connect with me:
 
-[<img align="left" alt="swizbiz | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="swizbiz | Telegram messenger" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="swizbiz | WhatsApp messenger" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg" />][WhatsApp]
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="WhatsApp" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg" />][WhatsApp]
+[<img align="left" alt="WeChat" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg" />][WeChat]
 
 [LinkedIn]: https://www.linkedin.com/in/aleksei-borodin
 [Telegram]: https://t.me/Swizbiz
