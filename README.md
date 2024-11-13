@@ -30,3 +30,4 @@ and ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-b
 [LinkedIn]: https://www.linkedin.com/in/aleksei-borodin
 [Telegram]: https://t.me/Swizbiz
 [WhatsApp]: https://wa.me/351932567772
+[WeChat]: https://wa.me/351932567772
