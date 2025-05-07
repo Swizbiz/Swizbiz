@@ -3,7 +3,7 @@ badgies - https://dev.to/envoy_/150-badges-for-github-pnk
 simple balck icons - https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/
 -->
 
-__Hi__ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> __I'm Alex, Java Software Engineer__
+__Hi__ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> __I'm Aleksei, Java Software Engineer__
 
 </br>
 
