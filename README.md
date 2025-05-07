@@ -25,5 +25,5 @@ and ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-b
 #### Connect with me:
 <a href="https://www.linkedin.com/in/aleksei-borodin" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.me/351932567772" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href="https://t.me/Swizbiz" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://t.me/Swizbizy" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://u.wechat.com/kDo073f-ZRwQHXX29gAavsQ" target="_blank">![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)</a>
