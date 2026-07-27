@@ -13,7 +13,7 @@ __Hi__ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 and ![Groovy](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-🌱 I’m currently learning ![Kubernetes](https://img.shields.io/badge/Kubernetes-336EE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+🌱 I’m currently improving my knowledge in ![Kubernetes](https://img.shields.io/badge/Kubernetes-336EE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 and ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 📖 Please, read my articles on <a href="https://dzone.com/users/4755732/swizbiz.html" target="_blank">![Dzone](https://img.shields.io/badge/DZone-353A62?style=for-the-badge)</a> and <a href="https://habr.com/ru/users/Swizbiz/publications/articles/" target="_blank">![Habr](https://img.shields.io/badge/HABR-629FBC?style=for-the-badge&logo=habr&logoColor=white)</a> 
